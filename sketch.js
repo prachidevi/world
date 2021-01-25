@@ -18,7 +18,7 @@ function setup(){
     
     ground = new Ground(600,height,1200,20)
 
-    box1 = new Box(700,720,70,100);
+    box1 = new Box(800,720,70,100);
     box2 = new Box(920,720,70,100);
     viking1 = new Viking(810, 750);
     log1 = new Log(810,600,300, PI/2);
